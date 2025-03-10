@@ -1,10 +1,3 @@
-//
-//  main.cpp
-//  lab_2
-//
-//  Created by Света on 10.03.2025.
-//
-
 #include <iostream>
 
 int main(int argc, const char * argv[]) {
